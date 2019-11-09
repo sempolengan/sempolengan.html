@@ -1,0 +1,38 @@
+{
+  "name": "sempolengan",
+  "short_name": "SPL",
+  "start_url": "https://sempolengan.com/",
+  "display": "standalone",
+  "background_color": "#C51162",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://lh3.googleusercontent.com/-eVA88TP8sFQ/XcanKi0CaNI/AAAAAAAAApI/4tlgEKi_Pb8xTlQK6GgGFnNe6FYlXsRjwCLcBGAsYHQ/h120/android-icon-48x48%255B1%255D.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/-I6Jg5-mFyOk/XcanbtfRD5I/AAAAAAAAApQ/_FQZ5n_9dBAtdO_CdZiwRyTYnjEPj1J5QCLcBGAsYHQ/h120/apple-icon-72x72%255B1%255D.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/-tdm33-_TLu8/XcanyYtINrI/AAAAAAAAApY/120NA2VNXEoMhgaCao6chko86EjST_oRACLcBGAsYHQ/h120/favicon-96x96%255B1%255D.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/-8NHa4vrLpZo/Xcan8_oSdnI/AAAAAAAAApc/PSuejmy19MIYN2ggKxGND15kdsOwjsYJgCLcBGAsYHQ/h120/apple-icon-144x144%255B1%255D.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-OZ5ZflWzVTQ/W_-2oo28NuI/AAAAAAAA7IU/E4aWUVZGtWAlRAl6VnxF7g8o6Q_OUt9ZwCLcBGAs/s168/icon_kta.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/-unOoNDZ3ySI/XcaoXZuzdxI/AAAAAAAAApo/pkgp5_37hJAUlRVcS4635VfeKRUCK6r9QCLcBGAsYHQ/h120/android-icon-192x192%255B1%255D.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-OZ5ZflWzVTQ/W_-2oo28NuI/AAAAAAAA7IU/E4aWUVZGtWAlRAl6VnxF7g8o6Q_OUt9ZwCLcBGAs/s512/icon_kta.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
